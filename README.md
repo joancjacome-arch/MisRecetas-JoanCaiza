@@ -1,1 +1,1 @@
-"#SOPA -> agua, carne, sal, cubo de sopa." 
+"#Arroz -> Agua, sal, ajo, arroz" 
